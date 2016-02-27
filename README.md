@@ -1,29 +1,30 @@
+# gnuplotでファイル名やディレクトリパスを取得する
+
+[gnuplotの便利な文字列関数](http://www.ss.scphys.kyoto-u.ac.jp/person/yonezawa/contents/program/gnuplot/string_function.html)で定義された関数を使って、gnuplot上でファイル名やディレクトリパスの取得を行う。
+gnuplot version4.2以上で使用可能。
+汎用的な使い方や関数の詳しい説明は上のページを見てください。
+
+
+
+
+
 <!-- MarkdownTOC -->
 
-- gnuplotでファイル名やディレクトリパスを取得する
-	- フルパス
-	- ドライブ名
-	- ドライブ名を除いたパス
-	- バックスラッシュをスラッシュに変えたパス
-	- ディレクトリパス
-	- ファイル名
-	- ファイルベースネーム
-	- 拡張子
-	- 関数をいつでも呼び出せるようにする
+- フルパス
+- ドライブ名
+- ドライブ名を除いたパス
+- バックスラッシュをスラッシュに変えたパス
+- ディレクトリパス
+- ファイル名
+- ファイルベースネーム
+- 拡張子
+- 関数をいつでも呼び出せるようにする
 
 <!-- /MarkdownTOC -->
 
 
 
 
-
-
-
-# gnuplotでファイル名やディレクトリパスを取得する
-
-[gnuplotの便利な文字列関数](http://www.ss.scphys.kyoto-u.ac.jp/person/yonezawa/contents/program/gnuplot/string_function.html)で定義された関数を使って、gnuplot上でファイル名やディレクトリパスの取得を行う。
-gnuplot version4.2以上で使用可能。
-汎用的な使い方や関数の詳しい説明は上のページを見てください。
 
 
 
